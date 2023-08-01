@@ -1,6 +1,6 @@
 pip == 23.1.2
 pandas == 1.5.3
-matplotlib
-seaborn
+matplotlib == 3.7.1
+seaborn == 0.11.2
 streamlit
 streamlit_option_menu
