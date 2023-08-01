@@ -44,6 +44,7 @@ if (selected == 'Top 5 Seller City') :
     y = 'city_seller_count', 
     x = 'seller_city',
     data = by_seller_city.sort_values('city_seller_count', ascending = False).head(5),
+    color = 'cyan'
     )
 
     plt.title('Top 5 Seller City', loc = "center", fontsize = 15)
@@ -82,6 +83,7 @@ if (selected == 'Customer Favorite Payment') :
         y = 'payment_count', 
         x = 'payment_type',
         data = fav_payments.sort_values('payment_count', ascending = False).head(5),
+        color = 'cyan'
     )
 
     plt.title('Customer Favorite Payments', loc = "center", fontsize = 15)
@@ -118,7 +120,8 @@ if (selected == 'Product High Sales') :
     sns.barplot(
         y = 'price_total',
         x = 'product_category_name',
-        data = high_sales.sort_values('product_category_name', ascending = True).head(10)
+        data = high_sales.sort_values('product_category_name', ascending = True).head(10),
+        color = 'blue'
     )
 
     plt.title('High Sales Product', loc = "center", fontsize = 15)
