@@ -13,7 +13,7 @@ pip install streamlit-option-menu
 streamlit run dashboard.py
 ```
 
-## Link Streamlit Share
+## Link Streamlit Share :
 ```
 https://project-submission-m2nmgqfcmzwtamx68sef3e.streamlit.app/
 ```
