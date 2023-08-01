@@ -17,3 +17,4 @@ streamlit run dashboard.py
 ```
 https://project-submission-m2nmgqfcmzwtamx68sef3e.streamlit.app/
 ```
+![Screenshot (387)](https://github.com/Edy-Mochamad/project-submission/assets/81341893/3d77662a-38ce-436b-bb1a-ef38ad20c954)
