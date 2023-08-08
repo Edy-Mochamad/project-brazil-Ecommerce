@@ -1,6 +1,9 @@
+#### Project ini berisi analisis mengenai Ecommerce di Brazil. Terdapat proses Gathering data, Assesing data, Cleanning data dan Visualization data.
+
+
 # Instruksi Penggunaan Dashboard :
 ```
-https://github.com/Edy-Mochamad/project-submission/tree/master
+https://github.com/Edy-Mochamad/project-brazil-Ecommerce/tree/master
 ```
 ## Setup environment
 ```
