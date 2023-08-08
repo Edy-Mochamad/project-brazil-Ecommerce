@@ -17,7 +17,7 @@ streamlit run dashboard.py
 
 ## Link Streamlit Share :
 ```
-https://project-submission-m2nmgqfcmzwtamx68sef3e.streamlit.app/
+https://project-brazil-ecommerce-wuzskcv5gqpjgo2vkfj9d7.streamlit.app/
 ```
 
 ## Screen Capture Dashboard
