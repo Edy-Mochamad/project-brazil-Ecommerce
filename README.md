@@ -1,9 +1,9 @@
 #### Project ini berisi analisis mengenai Ecommerce di Brazil. Terdapat proses Gathering data, Assesing data, Cleanning data dan Visualization data.
 
- #### Tahap Gathering data : Mendapatkan sumber data berasal dari kaggle.
- #### Tahap Assesing data : Pengecekan data frame, type data, missing value dan data duplicate
- #### Tahap Cleaning data : Melakukan handle missing value dan data duplikasi yang ditemukan
- #### Tahap Visualiztion data : Melakukan visualisasi data untuk mendapatkan kesimpulan dari hasil EDA.
+ #### 1. Tahap Gathering data : Mendapatkan sumber data berasal dari kaggle.
+ #### 2. Tahap Assesing data : Pengecekan data frame, type data, missing value dan data duplicate
+ #### 3. Tahap Cleaning data : Melakukan handle missing value dan data duplikasi yang ditemukan
+ #### 4. Tahap Visualiztion data : Melakukan visualisasi data untuk mendapatkan kesimpulan dari hasil EDA.
 
 
 # Instruksi Penggunaan Dashboard :
